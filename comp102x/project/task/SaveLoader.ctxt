@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SaveLoader
+comment1.params=records\ writer
+comment1.target=void\ saveGameRecords(comp102x.project.model.GameRecord[],\ java.io.Writer)
+comment2.params=reader
+comment2.target=comp102x.project.model.GameRecord[]\ loadGameRecords(java.io.Reader)
+numComments=3
